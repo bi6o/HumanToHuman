@@ -1,0 +1,7 @@
+UPDATE museum SET
+            title = 'museum test 2',
+            content='',
+            caption = 'title 2',
+            photo=''
+            where id = 2
+            LIMIT 1

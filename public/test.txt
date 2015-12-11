@@ -1,0 +1,1 @@
+INSERT INTO album (`title`,`content`,`photo`) values ('1','1','1')
